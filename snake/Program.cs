@@ -310,6 +310,8 @@ namespace snake
             }
             Field.drawField(field);
             Console.WriteLine("\n\nYou lose!");
+            Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
